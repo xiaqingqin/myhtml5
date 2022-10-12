@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>一首唐诗</title>
+</head>
+<body>
+<img src="./images/1.jpg"/>
+<h1>长恨歌</h1>
+<p>汉皇重色思倾国，</p>
+<p>御与多年求不得，</p>
+<p>杨家有女初长成，</p>
+<p>养在深闺人未识。</p>
+</body>
+</html>
